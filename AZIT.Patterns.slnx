@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/samples/">
+    <Project Path="samples/AzetaIT.Core.Patterns.Sample/AzetaIT.Core.Patterns.Sample.csproj" />
+    <Project Path="samples/AzetaIT.Core.Patterns.Sample.Orders/AzetaIT.Core.Patterns.Sample.Orders.csproj" />
+    <Project Path="samples/AzetaIT.Core.Patterns.Sample.Products/AzetaIT.Core.Patterns.Sample.Products.csproj" />
+    <Project Path="samples/AzetaIT.Core.Patterns.Sample.WorkerService/AzetaIT.Core.Patterns.Sample.WorkerService.csproj" />
+    <Project Path="samples/AzetaIT.Core.Patterns.Sample.Api/AzetaIT.Core.Patterns.Sample.Api.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/AzetaIT.Core.Patterns.Dapper/AzetaIT.Core.Patterns.Dapper.csproj" />
+    <Project Path="src/AzetaIT.Core.Patterns.EntityFrameworkCore/AzetaIT.Core.Patterns.EntityFrameworkCore.csproj" />
+    <Project Path="src/AzetaIT.Core.Patterns/AzetaIT.Core.Patterns.csproj" />
+  </Folder>
+  
+</Solution>

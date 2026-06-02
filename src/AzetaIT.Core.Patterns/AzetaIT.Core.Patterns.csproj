@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net8.0;net10.0</TargetFrameworks>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <RootNamespace>AzetaIT.Core.Patterns</RootNamespace>
+    <AssemblyName>AzetaIT.Core.Patterns</AssemblyName>
+    <PackageId>AzetaIT.Core.Patterns</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>AzetaIT</Authors>
+    <Description>Generic UoW and Repository pattern abstractions — no infrastructure dependency.</Description>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "AzetaIT.Core.Patterns.Sample.Api": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:63432;http://localhost:63433"
+    }
+  }
+}
